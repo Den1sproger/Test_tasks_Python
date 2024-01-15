@@ -18,3 +18,17 @@ python fibonacci.py
 ```
 python3 fibonacci.py
 ```
+
+## Task 2 (Echo server)
+
+### Start
+
+### Windows
+```
+python echo_server.py
+```
+
+### Mac/Linux
+```
+python3 echo_server.py
+```
